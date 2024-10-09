@@ -1,2 +1,2 @@
 # BigIdeasLab
-Working with seamus for the big ideas lab 6
+Working with Seamus and Gad for the big ideas lab 6
